@@ -56,7 +56,7 @@
     color: white;
     width: 90%;
 	max-width: 1000px;
-	margin: 10px auto;
+	
     display: grid;
     grid-gap: 25px;
     grid-template-columns: repeat(3, 1fr);
